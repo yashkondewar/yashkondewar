@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kondewar</h1>
 <h3 align="center">A Computer Science Student and frontend developer</h3>
 
-- 🔭 I’m currently working on **Project Tracking System**
+- 🔭 I’m currently working on **RNXG Website**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
