@@ -11,9 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashkondewar](https://github.com/yashkondewar)
 
+- 👨‍💻 All about me available at [Portfolio](https://yashkondewar.github.io/PortfolioWebsite/)
+
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **kondewaryash@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://yashkondewar.github.io/PortfolioWebsite/Yash%20Kondewar%20Resume%20.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
