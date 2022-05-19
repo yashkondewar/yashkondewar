@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashkondewar" alt="yashkondewar" /></a> </p>
 
-- 🔭 I’m currently working on  [RNXG Website](https://github.com/adwait12345/rnxg)
+- 🔭 I’m currently working on  [RNXG Website](https://rnxg.co.in)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
