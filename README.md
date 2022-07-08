@@ -13,7 +13,7 @@
 
 - 👨‍💻 All about me available at [Portfolio](https://yashkondewar.github.io/PortfolioWebsite/)
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **kondewaryash@gmail.com**
 
