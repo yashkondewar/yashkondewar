@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashkondewar](https://github.com/yashkondewar)
 
-- 👨‍💻 All about me available at [https://yashkondewar.github.io/PortfolioWebsite/](https://yashkondewar.github.io/PortfolioWebsite/)
+- 👨‍💻 All about me available at [Portfolio](https://yashkondewar.github.io/PortfolioWebsite/)
 
 - 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **kondewaryash@gmail.com**
 
-- 📄 Know about my experiences [https://yashkondewar.github.io/PortfolioWebsite/pdf/Yash_Kondewar.pdf](https://yashkondewar.github.io/PortfolioWebsite/pdf/Yash_Kondewar.pdf)
+- 📄 My Resume Link [Resume](https://yashkondewar.github.io/PortfolioWebsite/pdf/Yash_Kondewar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
