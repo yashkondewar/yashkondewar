@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Kondewar</h1>
 <h3 align="center">A Computer Science Student and MERN developer</h3>
 
+<img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" width=300>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashkondewar&label=Profile%20views&color=0e75b6&style=flat" alt="yashkondewar" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashkondewar" alt="yashkondewar" /></a> </p>
