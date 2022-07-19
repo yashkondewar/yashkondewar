@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashkondewar](https://github.com/yashkondewar)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/yashkondewar)
 
 - 👨‍💻 All about me available at [Portfolio](https://yashkondewar.github.io/PortfolioWebsite/)
 
