@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kondewar</h1>
 <h3 align="center">A Computer Science Student and MERN developer</h3>
 
-<img src="https://raw.githubusercontent.com/yashkondewar/yashkondewar/master/Github My img.gif" width=300>
+<img align="center" src="https://raw.githubusercontent.com/yashkondewar/yashkondewar/master/Github My img.gif" width=300>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashkondewar&label=Profile%20views&color=0e75b6&style=flat" alt="yashkondewar" /> </p>
 
