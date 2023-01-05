@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashkondewar" alt="yashkondewar" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kondewaryash@gmail.com**
 
-- 📄 My Resume Link [Resume](https://yashkondewar.github.io/PortfolioWebsite/pdf/Yash_Kondewar.pdf)
+- 📄 My Resume Link [Resume](https://drive.google.com/file/d/1MCPUNH6q4ZZY6mlVnNhY-hv68MHW7lIw/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
