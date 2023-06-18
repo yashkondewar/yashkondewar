@@ -48,4 +48,4 @@
 
 ### Badges
 
-[![@aw_santo's Holopin board](https://holopin.io/api/user/board?user=aw_santo)](https://holopin.io/@yashkondewar)
+[![@aw_santo's Holopin board](https://holopin.io/api/user/board?user=yashkondewar)](https://holopin.io/@yashkondewar)
