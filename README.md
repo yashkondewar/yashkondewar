@@ -39,11 +39,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkondewar&show_icons=true&locale=en" alt="yashkondewar" /></p>
 
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkondewar&" alt="yashkondewar" /></p>
-
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=yashkondewar&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 
 ### Badges
