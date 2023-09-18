@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kondewaryash@gmail.com**
 
-- 📄 My Resume Link [Resume](https://drive.google.com/file/d/1MCPUNH6q4ZZY6mlVnNhY-hv68MHW7lIw/view?usp=sharing)
+- 📄 My Resume Link [Resume](https://github.com/yashkondewar/yashkondewar/files/12651691/Yash_Kondewar.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
